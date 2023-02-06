@@ -1,0 +1,14 @@
+
+----- font family -----
+
+                (400)
+1.    font-family: 'Marko One', serif;     
+                (300,400,700,800) 
+2.    font-family: 'Open Sans', sans-serif;  
+
+------- color ---------
+
+1. blue ---  #4354a4
+2. nevy blue --  #111633
+3. ash  ----  #595959
+4. white ----   #dfdfd5

@@ -1,0 +1,40 @@
+/* common code start */
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #595959;
+}
+/* common code end */
+
+/* header start */
+.logo_img{}
+.nav_menu{}
+.nav_menu ul{}
+.nav_menu ul li{
+  margin: 0 15px;
+}
+.nav_menu ul li a{
+  font-size: 20px;
+  font-weight: 400;
+  transition: .3s;
+}
+.nav_menu ul li a:hover{
+  
+  font-size: 18px;
+  font-weight: 700;
+}
+
+
+
+
+.btn_common{
+  padding: 12px 45px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  color: white;
+  background-color: #111633;
+  border-radius: 0;
+}
+/* header end */
